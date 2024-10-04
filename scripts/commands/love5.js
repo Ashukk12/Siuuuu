@@ -7,7 +7,7 @@ module.exports.config = {
     name: "love5",
     version: "2.0.0",
     permssion: 0,
-    credits: "Mohammad Nayan",
+    credits: "Mohammad Ashik",
     description: "",
     prefix: true,
     category: "Love",
